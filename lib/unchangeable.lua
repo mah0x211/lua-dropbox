@@ -20,8 +20,8 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
   THE SOFTWARE.
    
-  digitalocean.lua
-  lua-digitalocean
+  lib/unchangeable.lua
+  lua-dropbox
   
   Created by Masatoshi Teruya on 15/03/09.
   

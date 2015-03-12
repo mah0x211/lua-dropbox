@@ -27,6 +27,10 @@
   
 --]]
 
+-- preload
+require('dropbox.api.file');
+require('dropbox.api.folder');
+
 return {
     account         = require('dropbox.api.account'),
     delta           = require('dropbox.api.delta'),
